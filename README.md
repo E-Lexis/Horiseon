@@ -4,5 +4,5 @@
 
 This is a website which has been optimized for search engines by restructuring its HTML elements and adding accessbility attributes.
 
-![Horiseon website screenshot] (Horiseon.png)
-
+<img src="Horiseon.png"
+     alt="Horiseon website screenshot" />
